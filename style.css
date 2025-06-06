@@ -14,6 +14,18 @@
 h1{
     text-align: center;
 }
+div class="container">
+ <h1/>Lencois Maranhenses<h1/>
+  <img src="sua-imagem.jpg" alt="Descrição da imagem" />
+</div>
+.container {
+  text-align: center; /* Centraliza o conteúdo dentro do container */
+}
+
+img {
+  display: block; /* Remove o espaço em linha ao redor da imagem */
+  margin: 0 auto; /* Centraliza a imagem horizontalmente */
+}
 
 
 

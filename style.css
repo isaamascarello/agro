@@ -9,6 +9,10 @@
     --button-hover: #012E40;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
+} 
+
+body{
+    text-align: center;
 }
 
 
